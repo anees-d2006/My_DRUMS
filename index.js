@@ -32,7 +32,7 @@ function makeSound(key) {
       break;
 
     case "a":
-      var tom2 = new Audio("./tom-2.mp3");
+      var tom2 = new Audio("tom-2.mp3");
       tom2.play();
       break;
 
